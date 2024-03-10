@@ -1,0 +1,1 @@
+# ratethishouse-config-repo
